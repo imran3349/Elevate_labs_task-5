@@ -1,1 +1,3 @@
 # Elevate_labs_task-5
+EXplanation:
+A crucial phase in the data analysis process is exploratory data analysis (EDA), which entails looking at datasets to highlight their key features, frequently with the aid of visual aids. Prior to using any modeling techniques, it aids in comprehending the data's structure, patterns, trends, and anomalies. EDA usually consists of data cleaning, statistical summaries, and visualizations like correlation heatmaps, boxplots, scatterplots, and histograms. Gaining knowledge, identifying correlations between variables, and spotting outliers or missing values are the objectives, as these inform subsequent research or model development.
